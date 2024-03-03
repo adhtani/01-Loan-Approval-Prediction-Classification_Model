@@ -1,4 +1,4 @@
-# LoanPrediction_Using-Random-Forest-Classification  
+# Project 1 - Loan Approval Prediction - Classification Model
    
 **Introduction**  
   
