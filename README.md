@@ -1,4 +1,4 @@
-# Project 1 - Loan Approval Prediction - Classification Model
+# Loan Approval Prediction - Classification Model
    
 **Introduction**  
   
